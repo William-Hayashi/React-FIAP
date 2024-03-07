@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    width: 4100px;
+    height: 150px;
+    background-color: rgb(101, 134, 123);
+    color: rgb(255, 255, 255);
+}
+
+.menu{
+    list-style: none;
+}
